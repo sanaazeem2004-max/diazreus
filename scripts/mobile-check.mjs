@@ -1,0 +1,12 @@
+import { chromium } from '@playwright/test';
+const b = await chromium.launch();
+const p = await b.newPage({ viewport: { width: 390, height: 844 }, isMobile: true, hasTouch: true, reducedMotion: 'reduce' });
+await p.goto('http://localhost:4173/', { waitUntil: 'networkidle' });
+await p.screenshot({ path: 'screenshots/m-fold.png' });
+await p.getByRole('button', { name: 'Open menu' }).click();
+await p.waitForTimeout(700);
+await p.screenshot({ path: 'screenshots/m-menu.png' });
+await p.getByRole('button', { name: 'Show Areas of Practice links' }).click();
+await p.waitForTimeout(500);
+await p.screenshot({ path: 'screenshots/m-menu2.png' });
+await b.close();

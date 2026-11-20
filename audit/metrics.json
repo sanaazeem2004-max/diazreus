@@ -1,0 +1,2207 @@
+[
+  {
+    "url": "https://diazreus.com/drt-alliance-3",
+    "slug": "_drt-alliance-3",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 1986,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [],
+        "imgsNoAlt": 3,
+        "imgCount": 8,
+        "h1": [
+          "DRT Alliance"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "60px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "81.96px"
+        },
+        "h2s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "30px",
+          "weight": "400",
+          "color": "rgb(171, 195, 219)",
+          "lh": "40.98px"
+        },
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(0, 0, 0)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 6535
+  },
+  {
+    "url": "https://diazreus.com/representative-matters",
+    "slug": "_representative-matters",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 4427,
+        "hOverflow": false,
+        "overflowers": [
+          "sr7-slide. right=1799",
+          "sr7-mask. right=1799",
+          "sr7-bg.sr7-layer right=1799",
+          "canvas. right=1799",
+          "sr7-grp.sr7-layer right=1799",
+          "sr7-shp.sr7-layer right=1799",
+          "sr7-txt.sr7-layer right=1738",
+          "sr7-txt.sr7-layer right=1690"
+        ],
+        "brokenImgs": [],
+        "imgsNoAlt": 3,
+        "imgCount": 8,
+        "h1": [
+          "About us"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "40px",
+          "weight": "400",
+          "color": "rgb(0, 0, 0)",
+          "lh": "55px"
+        },
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(255, 255, 255)",
+          "lh": "22px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 6866
+  },
+  {
+    "url": "https://diazreus.com/honors-recognitions",
+    "slug": "_honors-recognitions",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 3440,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "imgsNoAlt": 20,
+        "imgCount": 25,
+        "h1": [
+          "About us"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "40px",
+          "weight": "400",
+          "color": "rgb(0, 0, 0)",
+          "lh": "56px"
+        },
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(255, 255, 255)",
+          "lh": "22px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 5140
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice/athlete-representation-and-entertainment-law",
+    "slug": "_areas-of-practice_athlete-representation-and-entertainment-law",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 2156,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 6179
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice/bankruptcy-and-asset-recovery",
+    "slug": "_areas-of-practice_bankruptcy-and-asset-recovery",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 2260,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 4084
+  },
+  {
+    "url": "https://diazreus.com/us-international-practice",
+    "slug": "_us-international-practice",
+    "metrics": {
+      "390": {
+        "docWidth": 390,
+        "viewport": 390,
+        "height": 4684,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=839",
+          "ul.x-menu.x-menu-layered right=791",
+          "li.menu-item.menu-item-type-custom right=791",
+          "a.x-anchor.x-anchor-menu-item right=791",
+          "div.x-anchor-content right=791",
+          "div.x-anchor-text right=580",
+          "span.x-anchor-text-primary right=580",
+          "i.x-anchor-sub-indicator right=774"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "About us"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(255, 255, 255)",
+          "lh": "22px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": true,
+        "consoleErrors": []
+      },
+      "768": {
+        "docWidth": 768,
+        "viewport": 768,
+        "height": 3432,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=1651",
+          "ul.x-menu.x-menu-layered right=1603",
+          "li.menu-item.menu-item-type-custom right=1603",
+          "a.x-anchor.x-anchor-menu-item right=1603",
+          "div.x-anchor-content right=1603",
+          "div.x-anchor-text right=1014",
+          "span.x-anchor-text-primary right=1014",
+          "i.x-anchor-sub-indicator right=1586"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "About us"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(255, 255, 255)",
+          "lh": "22px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": true,
+        "consoleErrors": []
+      },
+      "1280": {
+        "docWidth": 1280,
+        "viewport": 1280,
+        "height": 3238,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=2752",
+          "ul.x-menu.x-menu-layered right=2704",
+          "li.menu-item.menu-item-type-custom right=2704",
+          "a.x-anchor.x-anchor-menu-item right=2704",
+          "div.x-anchor-content right=2704",
+          "div.x-anchor-text right=1603",
+          "span.x-anchor-text-primary right=1603",
+          "i.x-anchor-sub-indicator right=2687"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "About us"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(255, 255, 255)",
+          "lh": "22px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      },
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 3210,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "About us"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(255, 255, 255)",
+          "lh": "22px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 6854
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice/blockchain-and-cryptocurrency",
+    "slug": "_areas-of-practice_blockchain-and-cryptocurrency",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 2076,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 7070
+  },
+  {
+    "url": "https://diazreus.com/about-us",
+    "slug": "_about-us",
+    "metrics": {
+      "390": {
+        "docWidth": 390,
+        "viewport": 390,
+        "height": 4246,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=839",
+          "ul.x-menu.x-menu-layered right=791",
+          "li.menu-item.menu-item-type-custom right=791",
+          "a.x-anchor.x-anchor-menu-item right=791",
+          "div.x-anchor-content right=791",
+          "div.x-anchor-text right=580",
+          "span.x-anchor-text-primary right=580",
+          "i.x-anchor-sub-indicator right=774"
+        ],
+        "brokenImgs": [],
+        "imgsNoAlt": 3,
+        "imgCount": 12,
+        "h1": [
+          "About Us"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "40px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "56px"
+        },
+        "h2s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "18px",
+          "weight": "600",
+          "color": "rgb(20, 30, 40)",
+          "lh": "24.588px"
+        },
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": true,
+        "consoleErrors": []
+      },
+      "768": {
+        "docWidth": 768,
+        "viewport": 768,
+        "height": 4956,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=1651",
+          "ul.x-menu.x-menu-layered right=1603",
+          "li.menu-item.menu-item-type-custom right=1603",
+          "a.x-anchor.x-anchor-menu-item right=1603",
+          "div.x-anchor-content right=1603",
+          "div.x-anchor-text right=1014",
+          "span.x-anchor-text-primary right=1014",
+          "i.x-anchor-sub-indicator right=1586"
+        ],
+        "brokenImgs": [],
+        "imgsNoAlt": 3,
+        "imgCount": 12,
+        "h1": [
+          "About Us"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "40px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "56px"
+        },
+        "h2s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "18px",
+          "weight": "600",
+          "color": "rgb(20, 30, 40)",
+          "lh": "24.588px"
+        },
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": true,
+        "consoleErrors": []
+      },
+      "1280": {
+        "docWidth": 1280,
+        "viewport": 1280,
+        "height": 3020,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=2752",
+          "ul.x-menu.x-menu-layered right=2704",
+          "li.menu-item.menu-item-type-custom right=2704",
+          "a.x-anchor.x-anchor-menu-item right=2704",
+          "div.x-anchor-content right=2704",
+          "div.x-anchor-text right=1603",
+          "span.x-anchor-text-primary right=1603",
+          "i.x-anchor-sub-indicator right=2687"
+        ],
+        "brokenImgs": [],
+        "imgsNoAlt": 3,
+        "imgCount": 12,
+        "h1": [
+          "About Us"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "60px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "84px"
+        },
+        "h2s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "30px",
+          "weight": "600",
+          "color": "rgb(20, 30, 40)",
+          "lh": "40.98px"
+        },
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      },
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 3224,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [],
+        "imgsNoAlt": 3,
+        "imgCount": 12,
+        "h1": [
+          "About Us"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "60px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "84px"
+        },
+        "h2s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "30px",
+          "weight": "600",
+          "color": "rgb(20, 30, 40)",
+          "lh": "40.98px"
+        },
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 6548
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice/corporate-ma",
+    "slug": "_areas-of-practice_corporate-ma",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 1864,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [],
+        "imgsNoAlt": 3,
+        "imgCount": 8,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 5573
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice/drrt",
+    "slug": "_areas-of-practice_drrt",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 1916,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [],
+        "imgsNoAlt": 3,
+        "imgCount": 8,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 6873
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice/corporate-business-transactions-international-trade",
+    "slug": "_areas-of-practice_corporate-business-transactions-international-trade",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 2324,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 5828
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice",
+    "slug": "_areas-of-practice",
+    "metrics": {
+      "390": {
+        "docWidth": 390,
+        "viewport": 390,
+        "height": 6068,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=839",
+          "ul.x-menu.x-menu-layered right=791",
+          "li.menu-item.menu-item-type-custom right=791",
+          "a.x-anchor.x-anchor-menu-item right=791",
+          "div.x-anchor-content right=791",
+          "div.x-anchor-text right=580",
+          "span.x-anchor-text-primary right=580",
+          "i.x-anchor-sub-indicator right=774"
+        ],
+        "brokenImgs": [],
+        "imgsNoAlt": 3,
+        "imgCount": 8,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "40px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "56px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(255, 255, 255)",
+          "lh": "22px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": true,
+        "consoleErrors": []
+      },
+      "768": {
+        "docWidth": 768,
+        "viewport": 768,
+        "height": 4707,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=1651",
+          "ul.x-menu.x-menu-layered right=1603",
+          "li.menu-item.menu-item-type-custom right=1603",
+          "a.x-anchor.x-anchor-menu-item right=1603",
+          "div.x-anchor-content right=1603",
+          "div.x-anchor-text right=1018",
+          "span.x-anchor-text-primary right=1018",
+          "i.x-anchor-sub-indicator right=1586"
+        ],
+        "brokenImgs": [],
+        "imgsNoAlt": 3,
+        "imgCount": 8,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "40px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "56px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(255, 255, 255)",
+          "lh": "22px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": true,
+        "consoleErrors": []
+      },
+      "1280": {
+        "docWidth": 1280,
+        "viewport": 1280,
+        "height": 4150,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=2752",
+          "ul.x-menu.x-menu-layered right=2704",
+          "li.menu-item.menu-item-type-custom right=2704",
+          "a.x-anchor.x-anchor-menu-item right=2704",
+          "div.x-anchor-content right=2704",
+          "div.x-anchor-text right=1603",
+          "span.x-anchor-text-primary right=1603",
+          "i.x-anchor-sub-indicator right=2687"
+        ],
+        "brokenImgs": [],
+        "imgsNoAlt": 3,
+        "imgCount": 8,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "60px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "84px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(255, 255, 255)",
+          "lh": "22px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      },
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 4098,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [],
+        "imgsNoAlt": 3,
+        "imgCount": 8,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "60px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "84px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(255, 255, 255)",
+          "lh": "22px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 9214
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice/estate-and-tax-planning",
+    "slug": "_areas-of-practice_estate-and-tax-planning",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 2072,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 4609
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice/immigration-for-businesses-and-individuals",
+    "slug": "_areas-of-practice_immigration-for-businesses-and-individuals",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 2344,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 7726
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice/family-law",
+    "slug": "_areas-of-practice_family-law",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 2204,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 5125
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice/international-fraud-and-asset-recovery",
+    "slug": "_areas-of-practice_international-fraud-and-asset-recovery",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 2208,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 8603
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice/intellectual-property",
+    "slug": "_areas-of-practice_intellectual-property",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 2208,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 4162
+  },
+  {
+    "url": "https://diazreus.com",
+    "slug": "_home",
+    "metrics": {
+      "390": {
+        "docWidth": 390,
+        "viewport": 390,
+        "height": 5725,
+        "hOverflow": false,
+        "overflowers": [
+          "sr7-shp.sr7-layer right=651",
+          "sr7-layer.sr7-layer right=405",
+          "sr7-layer.sr7-layer right=405",
+          "div.x-off-canvas-content.x-off-canvas-content-right right=839",
+          "ul.x-menu.x-menu-layered right=791",
+          "li.menu-item.menu-item-type-custom right=791",
+          "a.x-anchor.x-anchor-menu-item right=791",
+          "div.x-anchor-content right=791"
+        ],
+        "brokenImgs": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "imgsNoAlt": 93,
+        "imgCount": 104,
+        "h1": [
+          "Areas of Practice."
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "40px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "55px"
+        },
+        "h2s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "30px",
+          "weight": "400",
+          "color": "rgb(0, 0, 0)",
+          "lh": "42px"
+        },
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(255, 255, 255)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": true,
+        "consoleErrors": []
+      },
+      "768": {
+        "docWidth": 768,
+        "viewport": 768,
+        "height": 5823,
+        "hOverflow": false,
+        "overflowers": [
+          "iframe.sr7-media right=1156",
+          "sr7-shp.sr7-layer right=1281",
+          "sr7-layer.sr7-layer right=799",
+          "sr7-layer.sr7-layer right=799",
+          "sr7-slide. right=1420",
+          "sr7-slide. right=2111",
+          "sr7-slide. right=2802",
+          "sr7-slide. right=3493"
+        ],
+        "brokenImgs": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "imgsNoAlt": 93,
+        "imgCount": 104,
+        "h1": [
+          "Areas of Practice."
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "40px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "55px"
+        },
+        "h2s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "30px",
+          "weight": "400",
+          "color": "rgb(0, 0, 0)",
+          "lh": "42px"
+        },
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(255, 255, 255)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": true,
+        "consoleErrors": []
+      },
+      "1280": {
+        "docWidth": 1280,
+        "viewport": 1280,
+        "height": 5383,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=2752",
+          "ul.x-menu.x-menu-layered right=2704",
+          "li.menu-item.menu-item-type-custom right=2704",
+          "a.x-anchor.x-anchor-menu-item right=2704",
+          "div.x-anchor-content right=2704",
+          "div.x-anchor-text right=1603",
+          "span.x-anchor-text-primary right=1603",
+          "i.x-anchor-sub-indicator right=2687"
+        ],
+        "brokenImgs": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "imgsNoAlt": 93,
+        "imgCount": 104,
+        "h1": [
+          "Areas of Practice."
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "40px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "55px"
+        },
+        "h2s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "35px",
+          "weight": "400",
+          "color": "rgb(0, 0, 0)",
+          "lh": "49px"
+        },
+        "p": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      },
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 5439,
+        "hOverflow": false,
+        "overflowers": [
+          "sr7-shp.sr7-layer right=2167",
+          "sr7-txt.sr7-layer right=1695",
+          "sr7-txt.sr7-layer right=1588",
+          "sr7-slide. right=1796",
+          "sr7-slide. right=2302",
+          "sr7-slide. right=2808",
+          "sr7-slide. right=3314",
+          "sr7-slide. right=3820"
+        ],
+        "brokenImgs": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "imgsNoAlt": 93,
+        "imgCount": 104,
+        "h1": [
+          "Areas of Practice."
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "40px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "55px"
+        },
+        "h2s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "35px",
+          "weight": "400",
+          "color": "rgb(0, 0, 0)",
+          "lh": "49px"
+        },
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(255, 255, 255)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 7463
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice/regulatory-and-corporate-investigations-governance-and-compliance",
+    "slug": "_areas-of-practice_regulatory-and-corporate-investigations-governance-and-compliance",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 2190,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Regulatory and Corporate Investigations, Governance and Compliance"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "60px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "84px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 5995
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice/real-estate",
+    "slug": "_areas-of-practice_real-estate",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 2184,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 7567
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice/white-collar-crime-government-sanctions",
+    "slug": "_areas-of-practice_white-collar-crime-government-sanctions",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 2215,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 6659
+  },
+  {
+    "url": "https://diazreus.com/news-events",
+    "slug": "_news-events",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 3672,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [],
+        "imgsNoAlt": 12,
+        "imgCount": 17,
+        "h1": [
+          "News & Events"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "60px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "81.96px"
+        },
+        "h2s": null,
+        "p": null,
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 9858
+  },
+  {
+    "url": "https://diazreus.com/investigators",
+    "slug": "_investigators",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 2701,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [],
+        "imgsNoAlt": 14,
+        "imgCount": 19,
+        "h1": [
+          "Investigators",
+          "Team"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "60px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "84px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(255, 255, 255)",
+          "lh": "22px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 9945
+  },
+  {
+    "url": "https://diazreus.com/articles-publications",
+    "slug": "_articles-publications",
+    "metrics": {
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 3552,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [],
+        "imgsNoAlt": 12,
+        "imgCount": 17,
+        "h1": [
+          "Articles & Publications"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "60px",
+          "weight": "400",
+          "color": "rgb(255, 255, 255)",
+          "lh": "81.96px"
+        },
+        "h2s": null,
+        "p": null,
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 8911
+  },
+  {
+    "url": "https://diazreus.com/areas-of-practice/international-litigation-arbitration",
+    "slug": "_areas-of-practice_international-litigation-arbitration",
+    "metrics": {
+      "390": {
+        "docWidth": 390,
+        "viewport": 390,
+        "height": 2675,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=839",
+          "ul.x-menu.x-menu-layered right=791",
+          "li.menu-item.menu-item-type-custom right=791",
+          "a.x-anchor.x-anchor-menu-item right=791",
+          "div.x-anchor-content right=791",
+          "div.x-anchor-text right=580",
+          "span.x-anchor-text-primary right=580",
+          "i.x-anchor-sub-indicator right=774"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": true,
+        "consoleErrors": []
+      },
+      "768": {
+        "docWidth": 768,
+        "viewport": 768,
+        "height": 2306,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=1651",
+          "ul.x-menu.x-menu-layered right=1603",
+          "li.menu-item.menu-item-type-custom right=1603",
+          "a.x-anchor.x-anchor-menu-item right=1603",
+          "div.x-anchor-content right=1603",
+          "div.x-anchor-text right=1014",
+          "span.x-anchor-text-primary right=1014",
+          "i.x-anchor-sub-indicator right=1586"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": true,
+        "consoleErrors": []
+      },
+      "1280": {
+        "docWidth": 1280,
+        "viewport": 1280,
+        "height": 2156,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=2752",
+          "ul.x-menu.x-menu-layered right=2704",
+          "li.menu-item.menu-item-type-custom right=2704",
+          "a.x-anchor.x-anchor-menu-item right=2704",
+          "div.x-anchor-content right=2704",
+          "div.x-anchor-text right=1603",
+          "span.x-anchor-text-primary right=1603",
+          "i.x-anchor-sub-indicator right=2687"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      },
+      "1440": {
+        "docWidth": 1440,
+        "viewport": 1440,
+        "height": 2156,
+        "hOverflow": false,
+        "overflowers": [
+          "div.x-off-canvas-content.x-off-canvas-content-right right=3096",
+          "ul.x-menu.x-menu-layered right=3048",
+          "li.menu-item.menu-item-type-custom right=3048",
+          "a.x-anchor.x-anchor-menu-item right=3048",
+          "div.x-anchor-content right=3048",
+          "div.x-anchor-text right=1787",
+          "span.x-anchor-text-primary right=1787",
+          "i.x-anchor-sub-indicator right=3031"
+        ],
+        "brokenImgs": [
+          ""
+        ],
+        "imgsNoAlt": 4,
+        "imgCount": 9,
+        "h1": [
+          "Areas of practice"
+        ],
+        "body": {
+          "font": "\"Times New Roman\"",
+          "size": "16px",
+          "weight": "400",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28.8px"
+        },
+        "h1s": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "600",
+          "color": "rgb(171, 195, 219)",
+          "lh": "22.4px"
+        },
+        "h2s": null,
+        "p": {
+          "font": "\"Nunito Sans\", sans-serif",
+          "size": "16px",
+          "weight": "300",
+          "color": "rgb(20, 30, 40)",
+          "lh": "28px"
+        },
+        "smallTextCount": 12,
+        "hamburgerVisible": false,
+        "consoleErrors": []
+      }
+    },
+    "loadMs": 6678
+  }
+]

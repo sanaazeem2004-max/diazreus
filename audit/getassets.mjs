@@ -1,0 +1,26 @@
+import fs from 'fs';
+const home = JSON.parse(fs.readFileSync('audit/pages/_home.json', 'utf8'));
+const news = JSON.parse(fs.readFileSync('audit/pages/_news-events.json', 'utf8'));
+const arts = JSON.parse(fs.readFileSync('audit/pages/_articles-publications.json', 'utf8'));
+const profiles = JSON.parse(fs.readFileSync('audit/profiles.json', 'utf8'));
+const jobs = [];
+const add = (url, dest) => jobs.push([url, dest]);
+add('https://diazreus.com/wp-content/uploads/2022/02/DRT-header-logo.png', 'brand/header-logo.png');
+add('https://diazreus.com/wp-content/uploads/2022/03/DRT_firm-logo.png', 'brand/firm-logo.png');
+add('https://diazreus.com/wp-content/uploads/2022/02/DRT-Alliance.png', 'brand/drt-alliance.png');
+add('https://diazreus.com/wp-content/uploads/2022/02/DRT-footer-logo.png', 'brand/footer-logo.png');
+add('https://diazreus.com/wp-content/uploads/2020/08/Group-17@2x.png', 'awards/fl-bar-intl-litigation.png');
+add('https://diazreus.com/wp-content/uploads/2020/08/Group-20@2x.png', 'awards/fl-bar-intl-law.png');
+const bg = home.bgImages.map(s => s.match(/url\("(.+?)"\)/)[1]);
+bg.filter(u => u.includes('revslider/o/9/')).forEach((u, i) => add(u, `awards/slide-${String(i).padStart(2, '0')}.webp`));
+bg.filter(u => u.includes('revslider/o/13/')).forEach((u, i) => add(u, `clients/slide-${String(i).padStart(2, '0')}.webp`));
+news.images.filter(i => i.src.includes('/2026/')).concat(news.images.filter(i => i.src.includes('new-Diaz'))).forEach(i => add(i.src, 'news/' + i.src.split('/').pop()));
+arts.images.filter(i => i.src.includes('/2026/')).forEach(i => add(i.src, 'news/' + i.src.split('/').pop()));
+const slug = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const seen = new Set();
+for (const p of profiles) { const s = slug(p.name); if (seen.has(s)) continue; seen.add(s); const ext = p.img.split('.').pop(); add(p.img, `people/${s}.${ext}`); p.photo = `/images/people/${s}.${ext}`; p.slug = s; }
+fs.writeFileSync('audit/profiles.json', JSON.stringify(profiles, null, 2));
+let fails = 0;
+const q = [...jobs];
+await Promise.all([...Array(8)].map(async () => { while (q.length) { const [u, d] = q.shift(); try { const r = await fetch(u, { headers: { 'User-Agent': 'Mozilla/5.0' } }); if (!r.ok) throw new Error(r.status); fs.writeFileSync('public/images/' + d, Buffer.from(await r.arrayBuffer())); } catch (e) { fails++; console.log('FAIL', u, e.message); } } }));
+console.log(jobs.length, 'jobs', fails, 'fails');

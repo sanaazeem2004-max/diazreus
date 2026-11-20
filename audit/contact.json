@@ -1,0 +1,22 @@
+{
+  "text": "\n Miami, Florida - U.S.A.EnglishEspañolРусскийAbout usUS & International PracticeDRT AllianceRepresentative MattersHonors & RecognitionsAreas of practiceAthlete Representation and Entertainment LawBankruptcy and Asset RecoveryBlockchain and CryptocurrencyCorporate / M&ACorporate, Business Transactions & International TradeGlobal Loss RecoveryEstate and Tax PlanningFamily LawFraud and Asset RecoveryImmigration for Businesses and IndividualsIntellectual PropertyLitigation & ArbitrationReal EstateRegulatory and Corporate Investigations, Governance and ComplianceWhite Collar Crime, Government SanctionsPeopleAttorneys & CounselorsInvestigatorsNews & ArticlesNews & EventsArticles & PublicationsOfficesContact\n Contact UsPlease note that contacting Diaz Reus through this form does not establish an attorney client. \nIf the nature of your communication is confidential, please call us directly at 877.247.9277. Thank you.Impersonation of Diaz Reus International Law Firm.\nDiaz Reus International Law Firm (“DRT”) issues this notice to alert the community concerning impersonation attempts. Scammers have sought to misuse our name, as well as the names of DRT attorneys, to falsely offer professional services. Please note that DRT never requests personal information through unofficial websites. Authentic communications originate only from email addresses ending in @diazreus.com or phone numbers listed on diazreus.com. If you are uncertain about the source of any communication using our name, please contact us immediately at info@diazreus.com or +1 (305) 375-9220.All locations\n Full Name\n Company Name\n Comment\n ",
+  "forms": [
+    {
+      "action": "https://diazreus.com/contact/#wpcf7-f476-o1",
+      "fields": [
+        "_wpcf7:hidden::false",
+        "_wpcf7_version:hidden::false",
+        "_wpcf7_locale:hidden::false",
+        "_wpcf7_unit_tag:hidden::false",
+        "_wpcf7_container_post:hidden::false",
+        "_wpcf7_posted_data_hash:hidden::false",
+        "fullname:text:First and Last Name:false",
+        "company:text:The Company you Represent:false",
+        "comment:textarea:What We can Do for You:false",
+        ":submit::false"
+      ],
+      "html": "Full Name\n\nCompany Name\n\nComment"
+    }
+  ],
+  "iframes": []
+}

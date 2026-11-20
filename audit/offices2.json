@@ -1,0 +1,935 @@
+{
+  "tabs": [
+    {
+      "id": "tab-tab1",
+      "controls": "panel-tab1",
+      "t": "North America"
+    },
+    {
+      "id": "tab-tab2",
+      "controls": "panel-tab2",
+      "t": "Latin America"
+    },
+    {
+      "id": "tab-e65-e14",
+      "controls": "panel-e65-e14",
+      "t": "Europe"
+    },
+    {
+      "id": "tab-e65-e15",
+      "controls": "panel-e65-e15",
+      "t": "Middle East & Asia"
+    }
+  ],
+  "d": [
+    {
+      "panel": "panel-tab1",
+      "parts": [
+        "miami@diazreus.com",
+        "1 (305) 375-9220",
+        "Miami Tower at International Place  100 S.E. Second Street, Suite 3400 Miami - Florida 33131"
+      ],
+      "maps": "https://www.google.com/maps/place/Miami+Tower/@25.7722041,-80.1936392,17z/data=!4m8!1m2!2m1!1sMiami+Tower+at+International+Place+%7C+100+S.E.+Second+Street,+Suite+3400!3m4!1s0x0:0x21336b9f807126bd!8m2!3d25.7723237!4d-80.1916022"
+    },
+    {
+      "panel": "panel-tab1",
+      "parts": [
+        "Miami, Florida",
+        "View Attorneys",
+        "miami@diazreus.com",
+        "1 (305) 375-9220",
+        "Miami Tower at International Place  100 S.E. Second Street, Suite 3400 Miami - Florida 33131",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Miami+Tower/@25.7722041,-80.1936392,17z/data=!4m8!1m2!2m1!1sMiami+Tower+at+International+Place+%7C+100+S.E.+Second+Street,+Suite+3400!3m4!1s0x0:0x21336b9f807126bd!8m2!3d25.7723237!4d-80.1916022",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab1",
+      "parts": [
+        "washingtondc@diazreus.com",
+        "1 (202) 684-2334",
+        "1120 Connecticut Avenue, NW, Suite 500, Washington D.C. 20036"
+      ],
+      "maps": "https://www.google.com/maps/place/1050+Connecticut+Ave+NW+%23500,+Washington,+DC+20036,+EE.+UU./@38.9034814,-77.0427809,17z/data=!3m2!4b1!5s0x89b7b7b91616d3e7:0x3333a570cd719390!4m5!3m4!1s0x89b7b7b93d5cc57d:0xa086ff703f4a040f!8m2!3d38.9034814!4d-77.0405922"
+    },
+    {
+      "panel": "panel-tab1",
+      "parts": [
+        "Washington, D.C.",
+        "View Attorneys",
+        "washingtondc@diazreus.com",
+        "1 (202) 684-2334",
+        "1120 Connecticut Avenue, NW, Suite 500, Washington D.C. 20036",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/1050+Connecticut+Ave+NW+%23500,+Washington,+DC+20036,+EE.+UU./@38.9034814,-77.0427809,17z/data=!3m2!4b1!5s0x89b7b7b91616d3e7:0x3333a570cd719390!4m5!3m4!1s0x89b7b7b93d5cc57d:0xa086ff703f4a040f!8m2!3d38.9034814!4d-77.0405922",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab1",
+      "parts": [
+        "newyork@diazreus.com",
+        "1 (212) 563-7000",
+        "990 Stewart Ave, Suite 201 - Garden City, New York 11530"
+      ],
+      "maps": "https://www.google.com/maps/place/200+S+Service+Rd,+Roslyn+Heights,+NY+11577,+EE.+UU./@40.7839388,-73.6506269,19z/data=!3m1!4b1!4m13!1m7!3m6!1s0x89c287d4f8562da7:0x786d3976a19b84b4!2s200+S+Service+Rd,+Roslyn+Heights,+NY+11577,+EE.+UU.!3b1!8m2!3d40.7839388!4d-73.6500797!3m4!1s0x89c287d4f8562da7:0x786d3976a19b84b4!8m2!3d40.7839388!4d-73.6500797"
+    },
+    {
+      "panel": "panel-tab1",
+      "parts": [
+        "New York, New York",
+        "View Attorneys",
+        "newyork@diazreus.com",
+        "1 (212) 563-7000",
+        "990 Stewart Ave, Suite 201 - Garden City, New York 11530",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/200+S+Service+Rd,+Roslyn+Heights,+NY+11577,+EE.+UU./@40.7839388,-73.6506269,19z/data=!3m1!4b1!4m13!1m7!3m6!1s0x89c287d4f8562da7:0x786d3976a19b84b4!2s200+S+Service+Rd,+Roslyn+Heights,+NY+11577,+EE.+UU.!3b1!8m2!3d40.7839388!4d-73.6500797!3m4!1s0x89c287d4f8562da7:0x786d3976a19b84b4!8m2!3d40.7839388!4d-73.6500797",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab1",
+      "parts": [
+        "View Attorneys",
+        "losangeles@diazreus.com",
+        "1 (877) 247-9277"
+      ],
+      "maps": "https://www.google.com/maps/place/12100+Wilshire+Blvd+Suite+1090,+Los+Angeles,+CA+90025,+EE.+UU./@34.0434694,-118.4697995,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2bb5cb91e5503:0x97d579711fbe27ab!8m2!3d34.043465!4d-118.4676108",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab1",
+      "parts": [
+        "View Attorneys",
+        "losangeles@diazreus.com",
+        "1 (877) 247-9277",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/12100+Wilshire+Blvd+Suite+1090,+Los+Angeles,+CA+90025,+EE.+UU./@34.0434694,-118.4697995,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2bb5cb91e5503:0x97d579711fbe27ab!8m2!3d34.043465!4d-118.4676108",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab1",
+      "parts": [
+        "Houston, Texas",
+        "View Attorneys",
+        "1 877 247-9277",
+        "3663 N. Sam Houston Pkwy E, Suite 4100, Houston, TX 77032"
+      ],
+      "maps": "https://www.google.com/maps/place/20333+TX-249,+Houston,+TX+77070,+EE.+UU./@29.9880472,-95.5753119,17z/data=!3m1!4b1!4m5!3m4!1s0x8640d264b91fac05:0x7b90a2d2c1ae4701!8m2!3d29.9880426!4d-95.5731232",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab1",
+      "parts": [
+        "Houston, Texas",
+        "View Attorneys",
+        "1 877 247-9277",
+        "3663 N. Sam Houston Pkwy E, Suite 4100, Houston, TX 77032",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/20333+TX-249+Ste+200,+Houston,+TX+77070,+EE.+UU./@29.9880914,-95.5753804,17z/data=!3m1!4b1!4m5!3m4!1s0x8640d264b9317849:0x1d17062e6d383486!8m2!3d29.9880868!4d-95.5731917",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab1",
+      "parts": [
+        "Toronto, Canada",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "1984 Yonge Street, Toronto, Ontario, M4S 1Z7"
+      ],
+      "maps": "https://www.google.com/maps/place/1984+Yonge+St,+Toronto,+ON+M4S+1Z7,+Canad%C3%A1/@43.700063,-79.3979248,19z/data=!3m1!4b1!4m13!1m7!3m6!1s0x882b333f2c970895:0x18e66d219d27cfb9!2s1984+Yonge+St,+Toronto,+ON+M4S+1Z7,+Canad%C3%A1!3b1!8m2!3d43.700063!4d-79.3973776!3m4!1s0x882b333f2c970895:0x18e66d219d27cfb9!8m2!3d43.700063!4d-79.3973776",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab1",
+      "parts": [
+        "Toronto, Canada",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "1984 Yonge Street, Toronto, Ontario, M4S 1Z7",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/1984+Yonge+St,+Toronto,+ON+M4S+1Z7,+Canad%C3%A1/@43.7000669,-79.3995663,17z/data=!4m13!1m7!3m6!1s0x882b333f2c970895:0x18e66d219d27cfb9!2s1984+Yonge+St,+Toronto,+ON+M4S+1Z7,+Canad%C3%A1!3b1!8m2!3d43.700063!4d-79.3973776!3m4!1s0x882b333f2c970895:0x18e66d219d27cfb9!8m2!3d43.700063!4d-79.3973776",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "saopaulo@diazreus.com",
+        "1 (877) 247-9277",
+        "Ed. Renaissance • R. Paraíba 550, 10º andar • Savassi • CEP 30130-140"
+      ],
+      "maps": "https://www.google.com/maps/place/R.+Para%C3%ADba,+550+-+10%C2%BA+andar+-+Funcion%C3%A1rios,+Belo+Horizonte+-+MG,+30130-141,+Brazil/@-19.9313562,-43.9373455,17z/data=!3m1!4b1!4m10!1m2!2m1!1zRWQuIFJlbmFpc3NhbmNlIOKAoiBSVUEuIFBhcmHDrWJhIDU1MCwgMTDCuiBhbmRhciDigKIgU2F2YXNzaSDigKIgQ0VQIDMwMTMwLTE0MA!3m6!1s0xa699c29d0c567d:0xded3ffc463713def!8m2!3d-19.9313563!4d-43.9324746!15sCk9FZC4gUmVuYWlzc2FuY2Ug4oCiIFJVQS4gUGFyYcOtYmEgNTUwLCAxMMK6IGFuZGFyIOKAoiBTYXZhc3NpIOKAoiBDRVAgMzAxMzAtMTQwkgEKc3VicHJlbWlzZeABAA!16s%2Fg%2F11qpkn3f43?entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Belo Horizonte, Brazil",
+        "View Attorneys",
+        "saopaulo@diazreus.com",
+        "1 (877) 247-9277",
+        "Ed. Renaissance • R. Paraíba 550, 10º andar • Savassi • CEP 30130-140",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/R.+Para%C3%ADba,+550+-+10%C2%BA+andar+-+Funcion%C3%A1rios,+Belo+Horizonte+-+MG,+30130-141,+Brazil/@-19.9313562,-43.9373455,17z/data=!3m1!4b1!4m10!1m2!2m1!1zRWQuIFJlbmFpc3NhbmNlIOKAoiBSVUEuIFBhcmHDrWJhIDU1MCwgMTDCuiBhbmRhciDigKIgU2F2YXNzaSDigKIgQ0VQIDMwMTMwLTE0MA!3m6!1s0xa699c29d0c567d:0xded3ffc463713def!8m2!3d-19.9313563!4d-43.9324746!15sCk9FZC4gUmVuYWlzc2FuY2Ug4oCiIFJVQS4gUGFyYcOtYmEgNTUwLCAxMMK6IGFuZGFyIOKAoiBTYXZhc3NpIOKAoiBDRVAgMzAxMzAtMTQwkgEKc3VicHJlbWlzZeABAA!16s%2Fg%2F11qpkn3f43?entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "saopaulo@diazreus.com",
+        "1 (877) 247-9277",
+        "Ed. Uberlândia 2000 • Av. Cesário Alvim, 818 – Conj. 707/708 • CEP 38400-098"
+      ],
+      "maps": "https://www.google.com/maps/place/Av.+Ces%C3%A1rio+Alvim,+818+-+707+708+-+Centro,+Uberl%C3%A2ndia+-+MG,+38400-098,+Brazil/@-18.9167328,-48.277368,17z/data=!3m1!4b1!4m9!1m2!2m1!1sEd.+Uberl%C3%A2ndia+2000++Av.+Ces%C3%A1rio+Alvim,+818+%E2%80%93+Conj.+707%2F708++CEP+38400-098!3m5!1s0x94a445a910f0ec93:0x1bc9689064383e5e!8m2!3d-18.9167329!4d-48.2724971!15sCk5FZC4gVWJlcmzDom5kaWEgMjAwMCAgQXYuIENlc8OhcmlvIEFsdmltLCA4MTgg4oCTIENvbmouIDcwNy83MDggIENFUCAzODQwMC0wOTiSARBjb21wb3VuZF9zZWN0aW9u4AEA?entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Uberlandia, Brazil",
+        "View all Regions Attorneys",
+        "View Attorneys",
+        "saopaulo@diazreus.com",
+        "1 (877) 247-9277",
+        "Ed. Uberlândia 2000 • Av. Cesário Alvim, 818 – Conj. 707/708 • CEP 38400-098",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Av.+Ces%C3%A1rio+Alvim,+818+-+707+708+-+Centro,+Uberl%C3%A2ndia+-+MG,+38400-098,+Brazil/@-18.9167328,-48.277368,17z/data=!3m1!4b1!4m9!1m2!2m1!1sEd.+Uberl%C3%A2ndia+2000++Av.+Ces%C3%A1rio+Alvim,+818+%E2%80%93+Conj.+707%2F708++CEP+38400-098!3m5!1s0x94a445a910f0ec93:0x1bc9689064383e5e!8m2!3d-18.9167329!4d-48.2724971!15sCk5FZC4gVWJlcmzDom5kaWEgMjAwMCAgQXYuIENlc8OhcmlvIEFsdmltLCA4MTgg4oCTIENvbmouIDcwNy83MDggIENFUCAzODQwMC0wOTiSARBjb21wb3VuZF9zZWN0aW9u4AEA?entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "bogota@diazreus.com",
+        "+57 (601) 3906506",
+        "Calle 90 No. 13a-31, Oficina 305, Bogotá D.C., Colombia"
+      ],
+      "maps": "https://www.google.com/maps/place/Sancho+BBDO/@4.6810085,-74.0413498,16.97z/data=!4m5!3m4!1s0x8e3f9a9a0b7d4b67:0x62f8986b1df1ee21!8m2!3d4.679747!4d-74.0414"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Bogota, Colombia",
+        "View Attorneys",
+        "bogota@diazreus.com",
+        "+57 (601) 3906506",
+        "Calle 90 No. 13a-31, Oficina 305, Bogotá D.C., Colombia",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Sancho+BBDO/@4.6810085,-74.0413498,16.97z/data=!4m5!3m4!1s0x8e3f9a9a0b7d4b67:0x62f8986b1df1ee21!8m2!3d4.679747!4d-74.0414",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "buenosaires@diazreus.com",
+        "1 (877) 247-9277",
+        "Moreau de Justo 740 Piso 3, Oficina #1. Ciudad de Buenos Aires (C1107AAP)"
+      ],
+      "maps": "https://www.google.com/maps/place/Av.+Alicia+Moreau+de+Justo+740,+C1107+AAT,+Buenos+Aires,+Argentina/@-34.6061312,-58.3671457,19z/data=!3m1!4b1!4m13!1m7!3m6!1s0x95a3352c2fda5d19:0xa3861e4a3b2601df!2sAv.+Alicia+Moreau+de+Justo+740,+C1107+AAT,+Buenos+Aires,+Argentina!3b1!8m2!3d-34.6061312!4d-58.3665985!3m4!1s0x95a3352c2fda5d19:0xa3861e4a3b2601df!8m2!3d-34.6061312!4d-58.3665985"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "View all Regions Attorneys",
+        "View Attorneys",
+        "buenosaires@diazreus.com",
+        "1 (877) 247-9277",
+        "Moreau de Justo 740 Piso 3, Oficina #1. Ciudad de Buenos Aires (C1107AAP)",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Av.+Alicia+Moreau+de+Justo+740,+C1107+AAT,+Buenos+Aires,+Argentina/@-34.6061312,-58.3671457,19z/data=!3m1!4b1!4m13!1m7!3m6!1s0x95a3352c2fda5d19:0xa3861e4a3b2601df!2sAv.+Alicia+Moreau+de+Justo+740,+C1107+AAT,+Buenos+Aires,+Argentina!3b1!8m2!3d-34.6061312!4d-58.3665985!3m4!1s0x95a3352c2fda5d19:0xa3861e4a3b2601df!8m2!3d-34.6061312!4d-58.3665985"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "aruba@diazreus.com",
+        "1 (877) 247-9277",
+        "Kaya L.D.Gerharts Les Galeries Shopping Mall L-15-16"
+      ],
+      "maps": "https://www.google.com/maps/place/Centro+Altamira,+Av.+San+Juan+Bosco,+Caracas+1060,+Miranda,+Venezuela/@10.4990767,-66.85013,16.98z/data=!4m8!1m2!2m1!1sCtro.+Altamira+Piso+6,+Oficina+%231,+Urb.+Altamira!3m4!1s0x8c2a59a94b440ef5:0xc726b7a275a284c1!8m2!3d10.4990745!4d-66.8501209"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Bonaire",
+        "View Attorneys",
+        "aruba@diazreus.com",
+        "1 (877) 247-9277",
+        "Kaya L.D.Gerharts Les Galeries Shopping Mall L-15-16",
+        "View On Google Maps",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Centro+Altamira,+Av.+San+Juan+Bosco,+Caracas+1060,+Miranda,+Venezuela/@10.4990767,-66.85013,16.98z/data=!4m8!1m2!2m1!1sCtro.+Altamira+Piso+6,+Oficina+%231,+Urb.+Altamira!3m4!1s0x8c2a59a94b440ef5:0xc726b7a275a284c1!8m2!3d10.4990745!4d-66.8501209",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Bonaire",
+        "View Attorneys",
+        "aruba@diazreus.com",
+        "1 (877) 247-9277",
+        "Kaya L.D.Gerharts Les Galeries Shopping Mall L-15-16",
+        "View On Google Maps",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Centro+Altamira,+Av.+San+Juan+Bosco,+Caracas+1060,+Miranda,+Venezuela/@10.4990767,-66.85013,16.98z/data=!4m8!1m2!2m1!1sCtro.+Altamira+Piso+6,+Oficina+%231,+Urb.+Altamira!3m4!1s0x8c2a59a94b440ef5:0xc726b7a275a284c1!8m2!3d10.4990745!4d-66.8501209",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "caracas@diazreus.com",
+        "1 (877) 247-9277",
+        "Ctro. Altamira Piso 6, Oficina #1, Urb. Altamira"
+      ],
+      "maps": "https://www.google.com/maps/place/Almirante+Lord+Nelson+245,+Lima+15073,+Per%C3%BA/@-12.1110274,-77.0393352,19z/data=!3m1!4b1!4m5!3m4!1s0x9105c83f29fa0a83:0x414eacc345adad86!8m2!3d-12.1110274!4d-77.038788"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Caracas, Venezuela",
+        "View Attorneys",
+        "caracas@diazreus.com",
+        "1 (877) 247-9277",
+        "Ctro. Altamira Piso 6, Oficina #1, Urb. Altamira",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Edificio+Mariamelia,+Diagonal+6,+Cdad.+de+Guatemala,+Guatemala/@14.5923214,-90.5065773,16.96z/data=!4m5!3m4!1s0x8589a3bee2041db1:0xa1838562961b6a87!8m2!3d14.592315!4d-90.5044622",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "aruba@diazreus.com",
+        "1 (877) 247-9277",
+        "Passaatstraat 8b Willemstad"
+      ],
+      "maps": "https://www.google.com/maps/place/Centro+Altamira,+Av.+San+Juan+Bosco,+Caracas+1060,+Miranda,+Venezuela/@10.4990767,-66.85013,16.98z/data=!4m8!1m2!2m1!1sCtro.+Altamira+Piso+6,+Oficina+%231,+Urb.+Altamira!3m4!1s0x8c2a59a94b440ef5:0xc726b7a275a284c1!8m2!3d10.4990745!4d-66.8501209"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Curaçao",
+        "View Attorneys",
+        "aruba@diazreus.com",
+        "1 (877) 247-9277",
+        "Passaatstraat 8b Willemstad",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Centro+Altamira,+Av.+San+Juan+Bosco,+Caracas+1060,+Miranda,+Venezuela/@10.4990767,-66.85013,16.98z/data=!4m8!1m2!2m1!1sCtro.+Altamira+Piso+6,+Oficina+%231,+Urb.+Altamira!3m4!1s0x8c2a59a94b440ef5:0xc726b7a275a284c1!8m2!3d10.4990745!4d-66.8501209",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Guatemala",
+        "View Attorneys",
+        "guatemala@diazreus.com",
+        "1 (877) 247-9277",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Edificio+Mariamelia,+Diagonal+6,+Cdad.+de+Guatemala,+Guatemala/@14.5923214,-90.5065773,16.96z/data=!4m5!3m4!1s0x8589a3bee2041db1:0xa1838562961b6a87!8m2!3d14.592315!4d-90.5044622",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "lima@diazreus.com",
+        "1 (877) 247-9277",
+        "Av. República de Panamá N.3418 Of. 502 San Isidro - Lima - Peru"
+      ],
+      "maps": "https://www.google.com/maps/place/Edificio+Mariamelia,+Diagonal+6,+Cdad.+de+Guatemala,+Guatemala/@14.5923214,-90.5065773,16.96z/data=!4m5!3m4!1s0x8589a3bee2041db1:0xa1838562961b6a87!8m2!3d14.592315!4d-90.5044622"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Lima, Peru",
+        "View Attorneys",
+        "lima@diazreus.com",
+        "1 (877) 247-9277",
+        "Av. República de Panamá N.3418 Of. 502 San Isidro - Lima - Peru",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Almirante+Lord+Nelson+245,+Lima+15073,+Per%C3%BA/@-12.1110274,-77.0393352,19z/data=!3m1!4b1!4m5!3m4!1s0x9105c83f29fa0a83:0x414eacc345adad86!8m2!3d-12.1110274!4d-77.038788",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "mexicocity@diazreus.com",
+        "1 (877) 247-9277",
+        "Bosque de Duraznos# 65-110, Colonia Bosques de las Lomas C.P. 11700"
+      ],
+      "maps": "https://www.google.com/maps/place/Almirante+Lord+Nelson+245,+Lima+15073,+Per%C3%BA/@-12.1110274,-77.0393352,19z/data=!3m1!4b1!4m5!3m4!1s0x9105c83f29fa0a83:0x414eacc345adad86!8m2!3d-12.1110274!4d-77.038788"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Mexico City, Mexico",
+        "View Attorneys",
+        "mexicocity@diazreus.com",
+        "1 (877) 247-9277",
+        "Bosque de Duraznos# 65-110, Colonia Bosques de las Lomas C.P. 11700",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Barranca+del+Muerto+261,+San+Jos%C3%A9+Insurgentes,+Benito+Ju%C3%A1rez,+03900+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico/@19.3618912,-99.1858722,19z/data=!3m1!4b1!4m5!3m4!1s0x85d1ff8b6949b8b9:0x67cd18947edd1cb5!8m2!3d19.3618912!4d-99.185325",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Monterrey, Mexico",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "Centro Convex, Piso 5, Av. Morones Prieto 1500. Monterrey, N.L. 64710"
+      ],
+      "maps": "https://www.google.com/maps/place/Barranca+del+Muerto+261,+San+Jos%C3%A9+Insurgentes,+Benito+Ju%C3%A1rez,+03900+Ciudad+de+M%C3%A9xico,+CDMX,+M%C3%A9xico/@19.3618912,-99.1858722,19z/data=!3m1!4b1!4m5!3m4!1s0x85d1ff8b6949b8b9:0x67cd18947edd1cb5!8m2!3d19.3618912!4d-99.185325",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Monterrey, Mexico",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "Centro Convex, Piso 5, Av. Morones Prieto 1500. Monterrey, N.L. 64710",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Centro+Convex/@25.66465,-100.3310182,19z/data=!3m1!4b1!4m14!1m8!3m7!1s0x8662be19ad9213e7:0xb8d0e2a2b6cd1e27!2sCentro+Convex!8m2!3d25.66465!4d-100.330471!14m1!1BCgIgAQ!3m4!1s0x8662be19ad9213e7:0xb8d0e2a2b6cd1e27!8m2!3d25.66465!4d-100.330471",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "panama@diazreus.com",
+        "1 (877) 247-9277",
+        "Calle Manuel María Icasa, Urb Obarrio Edificio Proconsa 1. Piso P.H."
+      ],
+      "maps": "https://www.google.com/maps/place/Centro+Convex/@25.66465,-100.3310182,19z/data=!3m1!4b1!4m14!1m8!3m7!1s0x8662be19ad9213e7:0xb8d0e2a2b6cd1e27!2sCentro+Convex!8m2!3d25.66465!4d-100.330471!14m1!1BCgIgAQ!3m4!1s0x8662be19ad9213e7:0xb8d0e2a2b6cd1e27!8m2!3d25.66465!4d-100.330471"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "View Attorneys",
+        "panama@diazreus.com",
+        "1 (877) 247-9277",
+        "Calle Manuel María Icasa, Urb Obarrio Edificio Proconsa 1. Piso P.H.",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Edificio+El+Ejecutivo/@8.9805788,-79.5244554,20.51z/data=!4m8!1m2!2m1!1selvira+mendez+st.+%26+calle+50+!3m4!1s0x8faca8e609a749e5:0x4728dc837bee0945!8m2!3d8.9808124!4d-79.5244329",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Santiago, Chile",
+        "View Attorneys",
+        "santiago@diazreus.com",
+        "1 (877) 247-9277",
+        "Santa Lucia 330, Piso 2"
+      ],
+      "maps": "https://www.google.com/maps/place/Sta+Luc%C3%ADa+330,+Santiago,+Regi%C3%B3n+Metropolitana,+Chile/@-33.4385986,-70.6437723,17z/data=!4m5!3m4!1s0x9662c598c7e3f827:0xf78dbfc257a0e5b5!8m2!3d-33.4386629!4d-70.6439648",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Santiago, Chile",
+        "View Attorneys",
+        "santiago@diazreus.com",
+        "1 (877) 247-9277",
+        "Santa Lucia 330, Piso 2",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Sta+Luc%C3%ADa+330,+Santiago,+Regi%C3%B3n+Metropolitana,+Chile/@-33.4385986,-70.6437723,17z/data=!4m5!3m4!1s0x9662c598c7e3f827:0xf78dbfc257a0e5b5!8m2!3d-33.4386629!4d-70.6439648",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "santodomingo@diazreus.com",
+        "1 (877) 247-9277",
+        "Gustavo Mejia Ricart No. 106 | Torre Piantini, Suite 802"
+      ],
+      "maps": "https://www.google.com/maps/place/Torre+Piantini,+Av.+Gustavo+Mej%C3%ADa+Ricart,+Santo+Domingo,+Rep%C3%BAblica+Dominicana/@18.4740792,-69.9378093,17z/data=!3m1!4b1!4m5!3m4!1s0x8eaf89e6178f5d9b:0x3b38ee927795f75c!8m2!3d18.4740792!4d-69.9356206"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Santo Domingo",
+        "Dominican Republic",
+        "View Attorneys",
+        "santodomingo@diazreus.com",
+        "1 (877) 247-9277",
+        "Gustavo Mejia Ricart No. 106 | Torre Piantini, Suite 802",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Torre+Piantini,+Av.+Gustavo+Mej%C3%ADa+Ricart,+Santo+Domingo,+Rep%C3%BAblica+Dominicana/@18.4740792,-69.9378093,17z/data=!3m1!4b1!4m5!3m4!1s0x8eaf89e6178f5d9b:0x3b38ee927795f75c!8m2!3d18.4740792!4d-69.9356206",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "saopaulo@diazreus.com",
+        "1 (877) 247-9277",
+        "Ed. Berrini One - Av. Engenheiro Luis Carlos Berrini, 105, 15th floor, Itaim Bibi"
+      ],
+      "maps": "https://www.google.com/maps/place/Edif%C3%ADcio+Berrini+Plaza/@-23.6073527,-46.695785,16.51z/data=!4m8!1m2!2m1!1sEd.+Berrini+Plaza!3m4!1s0x94ce50cbf81c2f31:0xe363262484e7da13!8m2!3d-23.6118005!4d-46.6937773"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Sao Paulo, Brazil",
+        "View Attorneys",
+        "saopaulo@diazreus.com",
+        "1 (877) 247-9277",
+        "Ed. Berrini One - Av. Engenheiro Luis Carlos Berrini, 105, 15th floor, Itaim Bibi",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Edif%C3%ADcio+Berrini+Plaza/@-23.6073527,-46.695785,16.51z/data=!4m8!1m2!2m1!1sEd.+Berrini+Plaza!3m4!1s0x94ce50cbf81c2f31:0xe363262484e7da13!8m2!3d-23.6118005!4d-46.6937773",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Oranjestad, Aruba",
+        "View Attorneys",
+        "aruba@diazreus.com",
+        "1 (877) 247-9277",
+        "Weststraat 13 Oranjestad"
+      ],
+      "maps": "https://www.google.com/maps/place/Torre+Piantini,+Av.+Gustavo+Mej%C3%ADa+Ricart,+Santo+Domingo,+Rep%C3%BAblica+Dominicana/@18.4740792,-69.9378093,17z/data=!3m1!4b1!4m5!3m4!1s0x8eaf89e6178f5d9b:0x3b38ee927795f75c!8m2!3d18.4740792!4d-69.9356206",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Oranjestad, Aruba",
+        "View Attorneys",
+        "aruba@diazreus.com",
+        "1 (877) 247-9277",
+        "Weststraat 13 Oranjestad",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Torre+Piantini,+Av.+Gustavo+Mej%C3%ADa+Ricart,+Santo+Domingo,+Rep%C3%BAblica+Dominicana/@18.4740792,-69.9378093,17z/data=!3m1!4b1!4m5!3m4!1s0x8eaf89e6178f5d9b:0x3b38ee927795f75c!8m2!3d18.4740792!4d-69.9356206",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Paramaribo, Suriname",
+        "View Attorneys",
+        "info@diazreus.com",
+        "1 (877) 247-9277",
+        "Dr. J.F. Nassylaan 25"
+      ],
+      "maps": "https://www.google.com/maps/place/Torre+Piantini,+Av.+Gustavo+Mej%C3%ADa+Ricart,+Santo+Domingo,+Rep%C3%BAblica+Dominicana/@18.4740792,-69.9378093,17z/data=!3m1!4b1!4m5!3m4!1s0x8eaf89e6178f5d9b:0x3b38ee927795f75c!8m2!3d18.4740792!4d-69.9356206",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-tab2",
+      "parts": [
+        "Paramaribo, Suriname",
+        "View Attorneys",
+        "info@diazreus.com",
+        "1 (877) 247-9277",
+        "Dr. J.F. Nassylaan 25",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Edif%C3%ADcio+Berrini+Plaza/@-23.6073527,-46.695785,16.51z/data=!4m8!1m2!2m1!1sEd.+Berrini+Plaza!3m4!1s0x94ce50cbf81c2f31:0xe363262484e7da13!8m2!3d-23.6118005!4d-46.6937773",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "athens@diazreus.com",
+        "1 (877) 247-9277",
+        "3  Omirou str, 15451 Neo Psychiko, Athens, Greece"
+      ],
+      "maps": "https://www.google.com/maps?client=safari&sca_esv=5522b92e4be46ee0&rls=en&output=search&q=3++Omirou+str,+15451+Neo+Psychiko,++Athens,+Greece&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpIgVFCTcbZI9VMGzNoV0iOTPryHVyOUisUiQWwjZrW-xk89Qe_1K5AEHBJ0yd2fdHvglntLL-ubeT4YS0IluAUVn9QTXj5KF4XzJxGSSysmOj8Ao-IqB5J4Q2tz2rdD_hCvbXsbdGplfpbUeBkphOcREdBKNDYgZurLgVpET8lYAKpw3WMgu0kjd-7BfhMqvdl3UEtg&entry=mc&ved=1t:200715&ictx=111"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "Athens, Greece",
+        "View Attorneys",
+        "athens@diazreus.com",
+        "1 (877) 247-9277",
+        "3  Omirou str, 15451 Neo Psychiko, Athens, Greece",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Omirou+3,+Neo+Psichiko+154+51,+Greece/@38.0053405,23.7740919,17z/data=!3m1!4b1!4m6!3m5!1s0x14a1986d0cd579ad:0xa29b04999e5204a8!8m2!3d38.0053405!4d23.7766668!16s%2Fg%2F11kmckl3ds?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "frankfurt@diazreus.com",
+        "1 (877) 247-9277",
+        "Neue Mainzer Straße 75 60311 Frankfurt a.M."
+      ],
+      "maps": "https://www.google.com/maps/place/Neue+Mainzer+Str.+75,+60311+Frankfurt+am+Main,+Alemania/@50.1138314,8.6710637,19z/data=!3m1!4b1!4m13!1m7!3m6!1s0x47bd0eacf5d45a77:0x5cd07a0136016c56!2sNeue+Mainzer+Str.+75,+60311+Frankfurt+am+Main,+Alemania!3b1!8m2!3d50.1138314!4d8.6716109!3m4!1s0x47bd0eacf5d45a77:0x5cd07a0136016c56!8m2!3d50.1138314!4d8.6716109"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "Frankfurt, Germany",
+        "View Attorneys",
+        "frankfurt@diazreus.com",
+        "1 (877) 247-9277",
+        "Neue Mainzer Straße 75 60311 Frankfurt a.M.",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Neue+Mainzer+Str.+75,+60311+Frankfurt+am+Main,+Alemania/@50.1138314,8.6710637,19z/data=!3m1!4b1!4m13!1m7!3m6!1s0x47bd0eacf5d45a77:0x5cd07a0136016c56!2sNeue+Mainzer+Str.+75,+60311+Frankfurt+am+Main,+Alemania!3b1!8m2!3d50.1138314!4d8.6716109!3m4!1s0x47bd0eacf5d45a77:0x5cd07a0136016c56!8m2!3d50.1138314!4d8.6716109",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "netherlands@diazreus.com",
+        "1 (877) 247-9277",
+        "Alexanderveld 5 - 2585 DB Den Haag - The Netherlands"
+      ],
+      "maps": "https://www.google.com/maps?sca_esv=82a31d96fe05b12d&sca_upv=1&output=search&q=Alexanderveld+5+-+2585+DB+Den+Haag+-+The+Netherlands&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5_cJreBOGYq6XK4Eyx3ZWB3hvi_jfhQFvRQXOZxLbKqjT9nNp1BwZoVqbQ5TqcTvFJiA7DlysvxsbuT-fy9VssF2sCfGCV-EqzVwqB8DxauJqVWqS8EkNojYyCFopFUrmmpBqBkIgPrcnrYkO_VNCxZkR0ICXczyL1-QVM_hHMghJDKdQ&entry=mc&ved=1t:200715&ictx=111"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "The Hague, The Netherlands",
+        "View Attorneys",
+        "netherlands@diazreus.com",
+        "1 (877) 247-9277",
+        "Alexanderveld 5 - 2585 DB Den Haag - The Netherlands",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps?sca_esv=82a31d96fe05b12d&sca_upv=1&output=search&q=Alexanderveld+5+-+2585+DB+Den+Haag+-+The+Netherlands&source=lnms&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5_cJreBOGYq6XK4Eyx3ZWB3hvi_jfhQFvRQXOZxLbKqjT9nNp1BwZoVqbQ5TqcTvFJiA7DlysvxsbuT-fy9VssF2sCfGCV-EqzVwqB8DxauJqVWqS8EkNojYyCFopFUrmmpBqBkIgPrcnrYkO_VNCxZkR0ICXczyL1-QVM_hHMghJDKdQ&entry=mc&ved=1t:200715&ictx=111",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "madrid@diazreus.com",
+        "1 (877) 247-9277",
+        "Avda. de Brasil, 17  28020 Madrid"
+      ],
+      "maps": "https://www.google.com/maps/place/Av.+de+Alberto+de+Alcocer,+24,+4%C2%BA,+28036+Madrid,+Espa%C3%B1a/@40.4581067,-3.6867246,17z/data=!3m1!4b1!4m5!3m4!1s0xd42291f22d19051:0xf6ed874cef2e609c!8m2!3d40.4581067!4d-3.6845359"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "Madrid, Spain",
+        "View Attorneys",
+        "madrid@diazreus.com",
+        "1 (877) 247-9277",
+        "Avda. de Brasil, 17  28020 Madrid",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Av.+de+Alberto+de+Alcocer,+24,+4%C2%BA,+28036+Madrid,+Espa%C3%B1a/@40.4581067,-3.6867246,17z/data=!3m1!4b1!4m5!3m4!1s0xd42291f22d19051:0xf6ed874cef2e609c!8m2!3d40.4581067!4d-3.6845359",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "moscow@diazreus.com",
+        "1 (877) 247-9277",
+        "Myasnitskaya 24/7, office 73"
+      ],
+      "maps": "https://www.google.com/maps/place/Pal%C3%A1c+Chicago/@50.0685042,14.4392103,12.02z/data=!4m5!3m4!1s0x470b94eddf785db3:0xdb9d33d6094f093a!8m2!3d50.0825015!4d14.4204663"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "Moscow, Russia",
+        "View Attorneys",
+        "moscow@diazreus.com",
+        "1 (877) 247-9277",
+        "Myasnitskaya 24/7, office 73",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Myasnitskaya,+24/@55.7624259,37.6348951,19z/data=!3m1!4b1!4m14!1m8!3m7!1s0x46b54a60aec91d17:0xb7d7adff6f1ad519!2sMyasnitskaya,+24!8m2!3d55.7624259!4d37.6354423!14m1!1BCgIgARICCAI!3m4!1s0x46b54a60aec91d17:0xb7d7adff6f1ad519!8m2!3d55.7624259!4d37.6354423",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "Mykonos, Greece",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "Drafaki, Mykonos, 84600"
+      ],
+      "maps": "https://www.google.com/maps?client=safari&sca_esv=841d7e2ab15ade5d&rls=en&output=search&q=Drafaki,+Mykonos,+84600&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBvRU_c8CYw0YyGBU6UN-VqoqPYaI3HSL1XTvQrW6xFSpxBqhmAKuZODIKo_3wIRS5pZ4ZvvmxWVhDCbPmccwC7JwobX7wt2Yt1LmgGJ6SIT3_PoAD3DBct2nM_MGLc5JT-UgVY37quESeBQKAvxTLIpFSGFsaEOIVzIgsJEHLYHLA_soGw&entry=mc&ved=1t:200715&ictx=111",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "Mykonos, Greece",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "Drafaki, Mykonos, 84600",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps?client=safari&sca_esv=841d7e2ab15ade5d&rls=en&output=search&q=Drafaki,+Mykonos,+84600&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBvRU_c8CYw0YyGBU6UN-VqoqPYaI3HSL1XTvQrW6xFSpxBqhmAKuZODIKo_3wIRS5pZ4ZvvmxWVhDCbPmccwC7JwobX7wt2Yt1LmgGJ6SIT3_PoAD3DBct2nM_MGLc5JT-UgVY37quESeBQKAvxTLIpFSGFsaEOIVzIgsJEHLYHLA_soGw&entry=mc&ved=1t:200715&ictx=111",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "Nicosia, Cyprus",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "Tefkrou 1, 1066"
+      ],
+      "maps": "https://www.google.com/maps?client=safari&sca_esv=5e95eb279cb35b6f&rls=en&output=search&q=Tefkrou+1,+1066&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBsxayPSIAqObp_AgjkUGqekYoUzDaOcDDjQfK4KpR2OI4nYy1x80mmSpqaOOUqZO6gr00dZrISKZjGWQiIFR5kVMKaNG3cA2IR88nvlz3xNV0bEOrDse2A8UyRx_2CUI8FcRKCy5dU0eIi6fOGp3web5ORl0npj8eSJyn6mKydkaWPfgwg&entry=mc&ved=1t:200715&ictx=111",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "Nicosia, Cyprus",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "Tefkrou 1, 1066",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps?client=safari&sca_esv=5e95eb279cb35b6f&rls=en&output=search&q=Tefkrou+1,+1066&source=lnms&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBsxayPSIAqObp_AgjkUGqekYoUzDaOcDDjQfK4KpR2OI4nYy1x80mmSpqaOOUqZO6gr00dZrISKZjGWQiIFR5kVMKaNG3cA2IR88nvlz3xNV0bEOrDse2A8UyRx_2CUI8FcRKCy5dU0eIi6fOGp3web5ORl0npj8eSJyn6mKydkaWPfgwg&entry=mc&ved=1t:200715&ictx=111",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "prague@diazreus.com",
+        "1 (877) 247-9277",
+        "Palace Chicago, Narodni 58/32 110 00 Prague 1"
+      ],
+      "maps": "https://www.google.com/maps/place/Myasnitskaya,+24/@55.7624259,37.6348951,19z/data=!3m1!4b1!4m14!1m8!3m7!1s0x46b54a60aec91d17:0xb7d7adff6f1ad519!2sMyasnitskaya,+24!8m2!3d55.7624259!4d37.6354423!14m1!1BCgIgARICCAI!3m4!1s0x46b54a60aec91d17:0xb7d7adff6f1ad519!8m2!3d55.7624259!4d37.6354423"
+    },
+    {
+      "panel": "panel-e65-e14",
+      "parts": [
+        "View Attorneys",
+        "prague@diazreus.com",
+        "1 (877) 247-9277",
+        "Palace Chicago, Narodni 58/32 110 00 Prague 1",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Pal%C3%A1c+Chicago/@50.0685042,14.4392103,12z/data=!4m6!3m5!1s0x470b94eddf785db3:0xdb9d33d6094f093a!8m2!3d50.0825015!4d14.4204663!16s%2Fg%2F11h1spp_5?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "Bainounah Road, C6 ADIB Tower, flat 906C"
+      ],
+      "maps": "https://www.google.com/maps/place/Abu+Dhabi+Islamic+Bank+(ADIB)/@24.456288,54.3387418,19z/data=!3m1!4b1!4m13!1m7!3m6!1s0x3e5e65f048a1c45b:0xae0f45cbb57546e8!2sBainounah+Street+-+Al+Bateen+-+Abu+Dhabi+-+Emiratos+%C3%81rabes+Unidos!3b1!8m2!3d24.4577736!4d54.3340232!3m4!1s0x3e5e65fbc5bde39d:0x1b8d9cd591acbfb4!8m2!3d24.456288!4d54.339289",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "Bainounah Road, C6 ADIB Tower, flat 906C",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Abu+Dhabi+Islamic+Bank+(ADIB)/@24.456288,54.3387418,19z/data=!3m1!4b1!4m13!1m7!3m6!1s0x3e5e65f048a1c45b:0xae0f45cbb57546e8!2sBainounah+Street+-+Al+Bateen+-+Abu+Dhabi+-+Emiratos+%C3%81rabes+Unidos!3b1!8m2!3d24.4577736!4d54.3340232!3m4!1s0x3e5e65fbc5bde39d:0x1b8d9cd591acbfb4!8m2!3d24.456288!4d54.339289",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "Aleppo City, Syria",
+        "View Attorneys",
+        "+1 (877) 247-9277",
+        "Aleppo City – next to Sheikh Al fath street"
+      ],
+      "maps": "https://www.google.com/maps/place/%E6%97%B6%E4%BB%A3%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83/@31.2324185,121.5038764,18.33z/data=!4m12!1m6!3m5!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!2z5pe25Luj6YeR6J6N5Lit5b-D!8m2!3d31.2325098!4d121.5043013!3m4!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!8m2!3d31.2325098!4d121.5043013",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "Aleppo City, Syria",
+        "View Attorneys",
+        "+1 (877) 247-9277",
+        "Aleppo City – next to Sheikh Al fath street",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/%E6%97%B6%E4%BB%A3%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83/@31.2324185,121.5038764,18.33z/data=!4m12!1m6!3m5!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!2z5pe25Luj6YeR6J6N5Lit5b-D!8m2!3d31.2325098!4d121.5043013!3m4!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!8m2!3d31.2325098!4d121.5043013",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "Amman, Jordan",
+        "View Attorneys",
+        "+1 (877) 247-9277",
+        "Bir As-Sabee St. Amman"
+      ],
+      "maps": "https://www.google.com/maps/place/%E6%97%B6%E4%BB%A3%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83/@31.2324185,121.5038764,18.33z/data=!4m12!1m6!3m5!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!2z5pe25Luj6YeR6J6N5Lit5b-D!8m2!3d31.2325098!4d121.5043013!3m4!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!8m2!3d31.2325098!4d121.5043013",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "Amman, Jordan",
+        "View Attorneys",
+        "+1 (877) 247-9277",
+        "Bir As-Sabee St. Amman",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/%E6%97%B6%E4%BB%A3%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83/@31.2324185,121.5038764,18.33z/data=!4m12!1m6!3m5!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!2z5pe25Luj6YeR6J6N5Lit5b-D!8m2!3d31.2325098!4d121.5043013!3m4!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!8m2!3d31.2325098!4d121.5043013",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "Bagdhad, Iraq",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "Al Karada – Arasat Entrance | Nazeniya Al Ameen Commercial Complex, 1st Floor"
+      ],
+      "maps": "https://www.google.com/maps/place/Foch,+Bayrut,+L%C3%ADbano/@33.899036,35.5053601,18z/data=!3m1!4b1!4m5!3m4!1s0x151f16e5efec3b2d:0x4ccad3618dd34acd!8m2!3d33.899036!4d35.5063008",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "Bagdhad, Iraq",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "Al Karada – Arasat Entrance | Nazeniya Al Ameen Commercial Complex, 1st Floor",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Foch,+Bayrut,+L%C3%ADbano/@33.899036,35.5053601,18z/data=!3m1!4b1!4m5!3m4!1s0x151f16e5efec3b2d:0x4ccad3618dd34acd!8m2!3d33.899036!4d35.5063008",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "130 Foch Street – Downtown",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "130 Foch Street – Downtown",
+        "View On Google Maps",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Foch,+Bayrut,+L%C3%ADbano/@33.899036,35.5053601,18z/data=!3m1!4b1!4m5!3m4!1s0x151f16e5efec3b2d:0x4ccad3618dd34acd!8m2!3d33.899036!4d35.5063008",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "130 Foch Street – Downtown",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "130 Foch Street – Downtown",
+        "View On Google Maps",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Foch,+Bayrut,+L%C3%ADbano/@33.899036,35.5053601,18z/data=!3m1!4b1!4m5!3m4!1s0x151f16e5efec3b2d:0x4ccad3618dd34acd!8m2!3d33.899036!4d35.5063008",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "Dubai, United Arab Emirates",
+        "View Attorneys",
+        "+1 (877) 247-9277",
+        "Emirates Financial Tower, North Tower, Office No: 1001"
+      ],
+      "maps": "https://www.google.com/maps/place/%E6%97%B6%E4%BB%A3%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83/@31.2324185,121.5038764,18.33z/data=!4m12!1m6!3m5!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!2z5pe25Luj6YeR6J6N5Lit5b-D!8m2!3d31.2325098!4d121.5043013!3m4!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!8m2!3d31.2325098!4d121.5043013",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "Dubai, United Arab Emirates",
+        "View Attorneys",
+        "+1 (877) 247-9277",
+        "Emirates Financial Tower, North Tower, Office No: 1001",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/%E6%97%B6%E4%BB%A3%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83/@31.2324185,121.5038764,18.33z/data=!4m12!1m6!3m5!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!2z5pe25Luj6YeR6J6N5Lit5b-D!8m2!3d31.2325098!4d121.5043013!3m4!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!8m2!3d31.2325098!4d121.5043013",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "Lahore, Pakistan",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "4/1 Golf Road, GOR 1 Lahore, Pakistan"
+      ],
+      "maps": "https://www.google.com/maps/place/4+Golf+Road,+G.O.R.+-+I,+Lahore,+Punjab+54000,+Pakistan/@31.548967,74.3317829,17z/data=!3m1!4b1!4m6!3m5!1s0x391904b86e805d01:0x345509b43b9c7117!8m2!3d31.548967!4d74.3343578!16s%2Fg%2F11v100mdlf?entry=ttu",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "Lahore, Pakistan",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "4/1 Golf Road, GOR 1 Lahore, Pakistan",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/4+Golf+Road,+G.O.R.+-+I,+Lahore,+Punjab+54000,+Pakistan/@31.548967,74.3317829,17z/data=!3m1!4b1!4m6!3m5!1s0x391904b86e805d01:0x345509b43b9c7117!8m2!3d31.548967!4d74.3343578!16s%2Fg%2F11v100mdlf?entry=ttu",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "Riyadh, Saudi Arabia",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "Tamkeen Tower - Floor 19- King Fahad Road with King Salman Road - P.O Box 13325 Riyadh 2573 Saudi Arabia"
+      ],
+      "maps": "https://www.google.com/maps/place/Regus+-+Riyadh,+Tamkeen/@24.8216634,46.617052,17z/data=!3m1!4b1!4m6!3m5!1s0x3e2ee5f076e1de87:0x2c07bf0df9ea1d29!8m2!3d24.8216634!4d46.6196269!16s%2Fg%2F11fmm06hzc?entry=ttu",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "Riyadh, Saudi Arabia",
+        "View Attorneys",
+        "1 (877) 247-9277",
+        "Tamkeen Tower - Floor 19- King Fahad Road with King Salman Road - P.O Box 13325 Riyadh 2573 Saudi Arabia",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/Regus+-+Riyadh,+Tamkeen/@24.8216634,46.617052,17z/data=!3m1!4b1!4m6!3m5!1s0x3e2ee5f076e1de87:0x2c07bf0df9ea1d29!8m2!3d24.8216634!4d46.6196269!16s%2Fg%2F11fmm06hzc?entry=ttu",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "shanghai@diazreus.com",
+        "电话: +86 (21) 68779903",
+        "1155 Fang Dian Road, 4th Floor, Kerry Parkside, Shanghai 201204, P.R.C. 美国达瑞律师事务所上海办公室 上海市浦东新区芳甸路1155号 浦东嘉里城4楼 邮政编码：201204"
+      ],
+      "maps": "https://www.google.com/maps/place/%E6%97%B6%E4%BB%A3%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83/@31.2324185,121.5038764,18.33z/data=!4m12!1m6!3m5!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!2z5pe25Luj6YeR6J6N5Lit5b-D!8m2!3d31.2325098!4d121.5043013!3m4!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!8m2!3d31.2325098!4d121.5043013"
+    },
+    {
+      "panel": "panel-e65-e15",
+      "parts": [
+        "Shanghai, China",
+        "View Attorneys",
+        "shanghai@diazreus.com",
+        "电话: +86 (21) 68779903",
+        "1155 Fang Dian Road, 4th Floor, Kerry Parkside, Shanghai 201204, P.R.C. 美国达瑞律师事务所上海办公室 上海市浦东新区芳甸路1155号 浦东嘉里城4楼 邮政编码：201204",
+        "View On Google Maps"
+      ],
+      "maps": "https://www.google.com/maps/place/%E6%97%B6%E4%BB%A3%E9%87%91%E8%9E%8D%E4%B8%AD%E5%BF%83/@31.2324185,121.5038764,18.33z/data=!4m12!1m6!3m5!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!2z5pe25Luj6YeR6J6N5Lit5b-D!8m2!3d31.2325098!4d121.5043013!3m4!1s0x35b270efb8cff5b9:0x58b6db8a3ea8383!8m2!3d31.2325098!4d121.5043013",
+      "attorneys": "https://diazreus.com/attorneys-conselors/"
+    }
+  ]
+}
